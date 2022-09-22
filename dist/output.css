@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Ubuntu&display=swap');
 
-
 html, body {
   background-color: #9ca3af;
   font-family: 'Open Sans', sans-serif;
@@ -14,7 +13,6 @@ h1,h2,h3,h4 {
   max-width: 1200px;
   margin: 0 auto;
   padding: 8px;
-
 }
 
 .col {
@@ -40,8 +38,6 @@ ul li {
   cursor: pointer;
 }
 
-
-
 h4{
   font-size: 22px;
   line-height: 0px;
@@ -52,8 +48,6 @@ button {
   border: none;
   font-weight: bold;
 }
-
-
 
 .red {
   color: #F44336;

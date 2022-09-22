@@ -3,10 +3,10 @@ import Articles from "./components/Articles";
 
 function App() {
   return (
-    <div>
-      <div>
-          <h1>React Blog</h1>
-          <Articles name="Article List" />
+    <div className="container">
+      <div className="row">
+
+          <Articles name="Today's posts" />
       </div>
     </div>
   );
